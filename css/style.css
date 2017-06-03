@@ -1,0 +1,62 @@
+.main{
+  width: 300px;
+    position: relative;
+    left: 37%;
+    right: auto;
+}
+.output{
+        height: auto;
+        width: 300px;
+    background-color: paleturquoise;
+    border-radius: 4px;
+
+}
+
+input{
+    border-radius: 5px;
+}
+.one{
+       width: 59px;
+       height: 28px;
+       background-color: orange;
+       color: white;
+       font-weight: bold;
+}
+.input{
+    position: relative;
+  margin: auto;
+  position: relative;
+  left: 2px;
+  width: 300px;
+}
+body{
+        background-color: black;
+}
+.output>h1{
+      left: 6px;
+    position: relative;
+}
+.mainhead{
+    color: black;
+    position: relative;
+    left: 20px;
+}
+
+.headbox{
+    background-color: paleturquoise;
+    border-radius: 20px;
+
+}
+.box{
+    height: 23px;
+    border-color: black;
+}
+
+.box:focus{
+    background-color: paleturquoise;
+    font-size: 13px;
+}
+
+.one:active{
+    background-color: red;
+}
